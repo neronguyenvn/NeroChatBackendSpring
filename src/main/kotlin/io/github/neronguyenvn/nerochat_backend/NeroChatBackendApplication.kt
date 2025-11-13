@@ -4,8 +4,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class NerochatBackendApplication
+class NeroChatBackendApplication
 
 fun main(args: Array<String>) {
-	runApplication<NerochatBackendApplication>(*args)
+	runApplication<NeroChatBackendApplication>(*args)
 }
