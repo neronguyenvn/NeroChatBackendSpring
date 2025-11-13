@@ -1,11 +1,11 @@
-package io.github.neronguyenvn.nerochat_backend
+package io.github.neronguyenvn.nerochat
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class NeroChatBackendApplication
+class NeroChatApp
 
 fun main(args: Array<String>) {
-	runApplication<NeroChatBackendApplication>(*args)
+	runApplication<NeroChatApp>(*args)
 }

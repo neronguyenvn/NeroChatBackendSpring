@@ -1,1 +1,2 @@
-rootProject.name = "nerochat-backend"
+rootProject.name = "NeroChatBackendSpring"
+include("app")

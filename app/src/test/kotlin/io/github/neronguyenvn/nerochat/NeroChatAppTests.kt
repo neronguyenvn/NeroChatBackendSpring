@@ -1,13 +1,12 @@
-package io.github.neronguyenvn.nerochat_backend
+package io.github.neronguyenvn.nerochat
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class NerochatBackendApplicationTests {
+class NeroChatAppTests {
 
 	@Test
 	fun contextLoads() {
 	}
-
 }
