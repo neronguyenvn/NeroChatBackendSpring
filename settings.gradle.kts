@@ -2,7 +2,7 @@ pluginManagement {
     includeBuild("build-logic")
 }
 
-rootProject.name = "NeroChatBackendSpring"
+rootProject.name = "NeroChatBackendSpringBoot"
 
 include("app")
 include("chat")
